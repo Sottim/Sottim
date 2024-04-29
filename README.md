@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center">A passionate learner with deep interest in Data Science & Data Science.</h3>
+<h3 align="center">A passionate learner with deep interest in Data Science & Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Reinforcement Learning Based Traffic Control System**
 
