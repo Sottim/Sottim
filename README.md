@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 <h3 align="center">A passionate learner with deep interest in Data Science & Machine Learning.</h3>
 
-- 🔭 I’m currently working on **Reinforcement Learning Based Traffic Control System**
-
-- 📫 How to reach me **santosottim@gmail.com**
+- 📫 How to reach me **santosottim123@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/santosh-adhikari-b68755238/](https://www.linkedin.com/in/santosh-adhikari-b68755238/)
 
