@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center">A passionate learner with deep interest in Data Science & Machine Learning.</h3>
+<h3 align="center">I have a deep interest in Applied Data Science & Machine Learning.</h3>
 
 - 📫 How to reach me **santosottim123@gmail.com**
 
